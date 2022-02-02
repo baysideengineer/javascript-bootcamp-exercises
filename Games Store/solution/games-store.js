@@ -1,17 +1,14 @@
-// set up a class called used games store
 class UsedGamesStore {
   constructor(balance) {
     this.balance = balance
     this.stock = []
   }
 
-  // buy game method
   buyGame(gameObject) {
     this.stock.push(gameObject)
     this.balance -= (gameObject.retailPrice * 50) / 100
   }
 
-  // buy games method
   buyGames(gameArray) {
     gameArray.forEach((game) => {
       this.stock.push(game)
@@ -19,7 +16,6 @@ class UsedGamesStore {
     })
   }
 
-  // sell game method
   sellGame(gameObject) {
     const updatedStock = this.stock.filter((game) => game !== gameObject)
 
@@ -31,7 +27,6 @@ class UsedGamesStore {
     this.balance += (gameObject.retailPrice * 75) / 100
   }
 
-  // check stock method
   checkStock(platform) {
     const gameArray = []
 
@@ -56,7 +51,6 @@ class UsedGamesStore {
     return gameArray
   }
 
-  // check balance method
   checkBalance() {
     return this.balance.toFixed(2) + '€'
   }
