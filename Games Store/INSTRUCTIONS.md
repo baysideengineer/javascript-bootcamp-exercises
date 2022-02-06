@@ -87,9 +87,3 @@ gameStore.buyGame(game1)
 console.log(gameStore.checkStock('PS4'))
 console.log(gameStore.checkBalance())
 ```
-
-## Submitting
-
-When you followed the instructions and all tests pass, you should be good to submit your solution. Note that there are additional unit tests to make sure you did not write code specifically to pass the provided tests (hard-coded solutions).
-
-## Have fun and Good Luck!
