@@ -1,4 +1,4 @@
-# Assessment 2: Ice Cream Parlor
+# Assessment: Ice Cream Parlor
 
 ## Introduction
 
