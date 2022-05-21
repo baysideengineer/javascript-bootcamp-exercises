@@ -16,4 +16,8 @@ Here you have to build a game store consisting of a class and with some methods 
 
 Here you have to build an ice cream parlor. Similar to the game store exercise but a little bit harder.
 
-Two more exercises will be added shortly.
+### [Taxes](https://github.com/saschazengler/javascript_bootcamp_exercises/tree/main/Taxes)
+
+Here you have to calculate taxes for different goods in a medieval era. This one is a lot of fun and my personal favourite.
+
+One more exercise will be added shortly.
