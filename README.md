@@ -1,6 +1,7 @@
 # JavaScript Bootcamp Exercises
 
-Here you can find exercises from a JavaScript bootcamp back in 2020. These exercises are beginner friendly and for everybody who started coding with JavaScript.
+Here you can find exercises from a JavaScript bootcamp back in 2020. These exercises are beginner-friendly and for
+everybody who started coding with JavaScript.
 
 ## Exercises
 
@@ -18,6 +19,5 @@ Here you have to build an ice cream parlor. Similar to the game store exercise b
 
 ### [Taxes](https://github.com/saschazengler/javascript_bootcamp_exercises/tree/main/Taxes)
 
-Here you have to calculate taxes for different goods in a medieval era. This one is a lot of fun and my personal favourite.
-
-One more exercise will be added shortly.
+Here you have to calculate taxes for different goods in a medieval era. This one is a lot of fun and my personal
+favourite.
