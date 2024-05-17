@@ -1,23 +1,35 @@
 # JavaScript Bootcamp Exercises
 
-Here you can find exercises from a JavaScript bootcamp back in 2020. These exercises are beginner-friendly and for
-everybody who started coding with JavaScript.
+Here you can find exercises from a JavaScript bootcamp. These
+exercises are beginner-friendly and for everybody who started coding with
+JavaScript.
 
 ## Exercises
 
-### [Basic JavaScript](https://github.com/saschazengler/javascript_bootcamp_exercises/tree/main/Basic%20JavaScript)
+### [Basic JavaScript][1]
 
-Here you have to solve three basic JavaScript tasks containing arrays, strings and a regular expression.
+Here you have to solve three basic JavaScript tasks containing arrays, strings
+and a regular expression.
 
-### [Games Store](https://github.com/saschazengler/javascript_bootcamp_exercises/tree/main/Games%20Store)
+### [Games Store][2]
 
-Here you have to build a game store consisting of a class and with some methods for user interactions.
+Here you have to build a game store consisting of a class with some methods
+for user interactions.
 
-### [Ice Cream Parlor](https://github.com/saschazengler/javascript_bootcamp_exercises/tree/main/Ice%20Cream%20Parlor)
+### [Ice Cream Parlor][3]
 
-Here you have to build an ice cream parlor. Similar to the game store exercise but a little bit harder.
+Here you have to build an ice cream parlor. Similar to the game store exercise
+but a little bit harder.
 
-### [Taxes](https://github.com/saschazengler/javascript_bootcamp_exercises/tree/main/Taxes)
+### [Taxes][4]
 
-Here you have to calculate taxes for different goods in a medieval era. This one is a lot of fun and my personal
-favourite.
+Here you have to calculate taxes for different goods in a medieval era. This one
+is a lot of fun and my personal favourite.
+
+[1]: exercises/basic-javascript/INSTRUCTIONS.md
+
+[2]: exercises/game-store/INSTRUCTIONS.md
+
+[3]: exercises/ice-cream-parlor/INSTRUCTIONS.md
+
+[4]: exercises/taxes/INSTRUCTIONS.md
