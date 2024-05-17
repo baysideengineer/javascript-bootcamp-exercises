@@ -7,10 +7,12 @@ Write all your code inside the file `names.js`!
 A string of names is a string containing zero or more names separated by a comma
 and possibly a space character. Examples:
 
-    "Alice, Bob, Carol"
-    "Alice,Bob,Carol"
-    "John Doe, Joe Schmoe"
-    "Linda,Bob, Tina,Gene,Louise"
+```text
+"Alice, Bob, Carol"
+"Alice,Bob,Carol"
+"John Doe, Joe Schmoe"
+"Linda,Bob, Tina,Gene,Louise"
+```
 
 Write a function `splitNames` which receives a string of names as its only
 parameter and returns an array of the names. The names in the array must be in
@@ -20,8 +22,8 @@ the same order as in the string.
 
 Write a function `countNameInArray` which receives two parameters:
 
-- `namesArray`: an array of names
-- `nameToCount`: a single name (string)
+- `namesArray`: An array of names.
+- `nameToCount`: A single name (string).
 
 The function should return the number of times `nameToCount` is included
 in `namesArray`.
@@ -30,8 +32,8 @@ in `namesArray`.
 
 Write a function `countName` which receives two parameters:
 
-- `names`: a string of names, as described in exercise 1
-- `nameToCount`: a single name (string)
+- `names`: A string of names, as described in exercise 1.
+- `nameToCount`: A single name (string).
 
 The function should return the number of times `nameToCount` is included
 in `names`, when split as described in exercise 1.
